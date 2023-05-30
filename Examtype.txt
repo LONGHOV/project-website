@@ -1,0 +1,21 @@
+<html>
+<head><title>Examination Type</title></head>
+<body>
+<form action="action.select.php"method="post">
+<h2>Select Examination Type</h2>
+                <button><a href="C:\Users\Djouo Fofack loic\Desktop\project\OLPAGE.html">GCE OL</a></button><br>
+                <button><a href="C:\Users\Djouo Fofack loic\Desktop\project\ALPAGE.html">GCE AL</a></button><br>
+                <button><a href="PROBATOIR">PROBATOIR</a></button><br>
+                <button><a href="BACCALAUREAT>BACCALAUREAT</a></button><br>
+                <button><a href="BEPC">BEPC</a></button><br>
+                <button><a href="CAPIEMP">CAPIEMP</a></button><br>
+                <button><a href="CAPIET">CAPIET</a></button><br>
+                <button><a href="CAP INDISTRIAL>CAP INDISTRIAL</a></button><br>
+                <button><a href="CAP TERTIARY">CAP TERTIARY</a></button><br>
+                <button><a href="ITVE INDUSTRIAL">ITVE INDUSTRIAL</a></button><br>
+               <button><a href="ITVE TERTIARY">ITVE TERTIARY</a></button><br>
+               <button><a href="ATVE INDUSTRIAL">ATVE INDUSTRIAL</a></button><br>
+               <button><a href="ATVE TERTIARY">ATVE TERTIARY</a></button><br>
+              
+</form>
+</html>

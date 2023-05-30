@@ -1,0 +1,11 @@
+<html>
+<head><title>payment</title></head>
+<body>
+<form action="action.payement.php"method="post">
+Amount:<input type="integer"value="5000xaf"/>
+<h1>Choose Payment method</h>
+<button><a href="orange.html">Orange Money</a></button>
+<button><a href="momo.html">Mobile Money</a></button>
+</form>
+</body>
+</html>

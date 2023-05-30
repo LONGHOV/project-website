@@ -1,0 +1,64 @@
+<html>
+<head><title>GCE ADVANCED LEVEL</title></head>
+<body>
+<fieldset>
+<form action="action.AL.php"method="post">
+<h2>GCE ADVANCED LEVEL</2>
+<table border="1">
+<tr>
+<th>SN</th><th>SUBJECT</th><th>CODE</th><th>SELECT</th>
+</tr>
+<tr>
+<td>1</td><td>BIOLOGY</td><td>0720</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>2</td><td>CHEMISTRY</td><td>0725</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>3</td><td>HISTORY</td><td>0730</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>4</td><td>GEOGRAPHY</td><td>0735</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>5</td><td>LITERATURE</td><td>0740</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>6</td><td>ECONOMICS</td><td>0745</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>7</td><td>FOOD SCIENCE</td><td>0750</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>8</td><td>PHYLOSOPHY</td><td>0755</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>9</td><td>FRENCH</td><td>0760</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>10</td><td>ENGLISH</td><td>0765</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>11</td><td>PHYSICS</td><td>0770</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>12</td><td>MATHEMATICS</td><td>0775</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>13</td><td>RELIGIOUS STUDIES</td><td>0780</td><td><input type="checkbox"/></td>
+</tr>
+<tr>
+<td>14</td><td>FURTHER MATHS</td><td>0785</td><td><input type="check button"/></td>
+</tr>
+<tr>
+<td colspan='3">Number of subjects</td><td></td>
+</tr>
+</table><br><br>
+<input type="button"value="Save"/>
+<button><a href="">payment</a></button>
+</fieldset>
+</form>
+</body>
+</html>
+
+

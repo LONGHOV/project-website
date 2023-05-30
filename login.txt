@@ -1,0 +1,14 @@
+<html>
+<head><title>Student login page</title>
+</head>
+<body>
+<form action="action.login.php"Method="post">
+<h2>Student Login Form</h2>
+Name:<input type="text"placeholder="Enter Name"/><br><br>
+Reg.Num:<input type="number"placeholder="Enter Reg.Num"/><br><br>
+Password:<input type="password"placeholder="Enter password"/><br><br>
+<p>NB:Enter name as in the birth certificate</P>
+<button><a href="C:\Users\Djouo Fofack loic\Desktop\project\Examtype.html">Login</a></button>
+</form>
+</body>
+</html>
